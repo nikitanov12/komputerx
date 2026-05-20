@@ -38,7 +38,7 @@ header {
     color: white;
     padding: 38px 0;
     text-align: center;
-    border-bottom: 4px solid var(--accent);
+    border-bottom: 0px solid var(--accent);
 }
 
 header h1 { 
